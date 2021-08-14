@@ -1,0 +1,31 @@
+.header-body-color{
+    background-color: #264653;
+}
+.btn-color{
+    background-color: #E76F51;
+    border: 0;
+    padding:5px 20px;
+    border-radius: 10px;
+    color: white;
+}
+.gray{
+    filter: grayscale(100%);
+}
+.fa-star{
+    color:orange;
+    
+}
+.happy-color{
+    color:  #0A0826;
+}
+.clients-color{
+    color: #E76F51;
+
+}
+.footer{
+    background-color: #0B0D17;
+    color: white;
+}
+.word{
+    word-spacing: 30px;
+}
